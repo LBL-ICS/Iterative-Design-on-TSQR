@@ -1,4 +1,4 @@
-[debug] [iterative_tsqr-build] Classpath dependencies List()
-[debug] [iterative_tsqr-build] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'iterative_tsqr-build' to 'C:\Users\blair\OneDrive\Documents\Desktop\iterative_tsqr\project\.bloop\iterative_tsqr-build.json'
-[success] Generated .bloop\iterative_tsqr-build.json
+[debug] [iterative-design-on-tsqr-build] Classpath dependencies List()
+[debug] [iterative-design-on-tsqr-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'iterative-design-on-tsqr-build' to '/Volumes/MacExternal/DevProjects/ScoolProjects/Iterative-Design-on-TSQR/project/.bloop/iterative-design-on-tsqr-build.json'
+[success] Generated .bloop/iterative-design-on-tsqr-build.json
