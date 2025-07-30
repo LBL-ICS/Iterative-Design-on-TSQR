@@ -2,8 +2,9 @@ package iterative_tsqr
 
 import chisel3._
 import chisel3.util.{Cat, ShiftRegister, log2Ceil}
-import BinaryDesignsNew._
-import FPUnits._
+import Binary_Modules.BinaryDesignsNew._
+import Complex_Modules.{cmplx_dot_iterative_v2, complex_adder, complex_mult}
+import FP_Modules.FPUnits._
 
 //sub modules//
 
